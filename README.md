@@ -1,1 +1,1 @@
-https://Vadim-Bykov.github.io/TestRepository/cv
+https://Vadim-Bykov.github.io/TestRepository/cv/
