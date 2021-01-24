@@ -1,1 +1,1 @@
-https://Vadim-Bykov.github.io/TestRepository/cvrsschool-cv
+https://Vadim-Bykov.github.io/TestRepository/cv/
