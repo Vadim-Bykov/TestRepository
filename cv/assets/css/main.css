@@ -214,6 +214,7 @@ a:hover {
   background: url(../img/11.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: right;
 }
 
 @media (max-width: 1200px) {
